@@ -4,10 +4,10 @@
 "Push_Swap" is a challenging algorithmic project from 42 School. The goal is to sort a stack of integers using a limited set of operations, aiming to minimize the number of moves required. This project enhances your understanding of sorting algorithms, data structures, and algorithm optimization.
 
 #### ⭐ My 42 score for this project:
-![image](https://github.com/yvann-ba/Push_Swap/assets/97234242/1df7cced-2cfc-4426-853b-a386b9793c90)
+![image](https://github.com/yvann-ba/Push_Swap/assets/97234242/0a977e5a-72dc-45fd-a94e-e656a156690d)
 
 #### 📄 Official 42 School Subject:
-https://github.com/rphlr/42-Subjects/blob/main/common-core/push_swap/en.subject.pdf
+https://github.com/rphlr/42-Subjects/blob/main/common-core/minishell/en.subject.pdf
 
 ## 🌟 Features
 - Efficiently sort a stack of integers

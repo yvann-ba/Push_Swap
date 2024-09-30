@@ -7,7 +7,7 @@
 ![image](https://github.com/yvann-ba/Push_Swap/assets/97234242/b2368731-4b16-4293-b8cf-0582c818e6c8)
 
 #### 📄 Official 42 School Subject:
-https://github.com/rphlr/42-Subjects/blob/main/common-core/push_swap/en.subject.pdf
+https://github.com/yvann-ba/Push_Swap/blob/main/en.subject.pdf
 
 ## 🌟 Features
 - Efficiently sort a stack of integers
